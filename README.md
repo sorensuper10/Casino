@@ -6,4 +6,4 @@
 - Vi har lavet Blackjack og Roulette.
 - Det kan bruges til at spille casinospil.
 
-Billede af programmet
+  Billede af programmet
